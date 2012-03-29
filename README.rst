@@ -11,6 +11,11 @@ Supported platforms
 * Mac OS X 10.6 64bit
 * Windows 64bit
 
+Tools
+-----
+
+* premake4
+
 binary
 ------
 
