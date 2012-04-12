@@ -14,7 +14,9 @@ Supported platforms
 Tools
 -----
 
-* premake4
+* premake4 4.4-beta4
+* node 0.6.14
+* ispc 1.2.1
 
 binary
 ------
